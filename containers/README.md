@@ -1,0 +1,1 @@
+I prefer building the kernel inside containers, but since some people asked me in private you need to remember that: **Containers run on the Host kernel.**
