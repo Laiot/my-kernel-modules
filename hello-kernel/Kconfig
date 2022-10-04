@@ -1,0 +1,9 @@
+config HELLO_KERNEL
+	tristate "HelloKernel"
+	help
+	  This option builds the Rust Hello Kernel module.
+
+	  To compile this as a module, choose M here:
+	  the module will be called rust_hello.
+
+	  If unsure, say N.
